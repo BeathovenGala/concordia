@@ -68,8 +68,7 @@ The `run_scenes` function allows you to string together multiple "Scenes".
     `GameMaster` for a period of time.
 *   **Transition**: Handles "premise" messages (intro text) and "conclusion"
     messages (outro text) when switching scenes.
-*   **Clock**: Integrates with a `GameClock` to manage in-game time progression
-    between scenes.
+
 
 This allows for simulations like:
 
